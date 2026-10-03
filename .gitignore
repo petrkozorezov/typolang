@@ -1,0 +1,12 @@
+# sublime
+/*.sublime-workspace
+/typolang.sublime-project
+
+# Devenv/Direnv
+.devenv*
+.direnv*
+devenv.local.nix
+.pre-commit-config.yaml
+
+# Generated task dependency graph
+/tasks.svg
