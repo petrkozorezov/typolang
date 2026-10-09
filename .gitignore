@@ -10,3 +10,5 @@ devenv.local.nix
 
 # Generated task dependency graph
 /tasks.svg
+
+.obsidian/
