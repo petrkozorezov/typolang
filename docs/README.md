@@ -4,7 +4,8 @@
 устройства и безопасного изменения. Принципы качества — в [AGENTS.md](../AGENTS.md),
 процесс работы с задачами — в [workflow](workflow.md).
 
-Основные точки входа: [видение](product/vision.md),
+Основные точки входа: [цели](product/goals.md),
+[принципы](product/principles.md), [видение](product/vision.md),
 [требования к основанию](product/requirements/language-core.md),
 [архитектура](architecture/overview.md). Каждый новый документ сюда добавлять
 не нужно.
